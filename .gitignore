@@ -1,0 +1,42 @@
+# Python & Cache files 
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.ipynb_checkpoints/
+*.notebook
+
+# IDEs and Text Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+bin/
+lib/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+
+# Large Datasets & Storage
+*.csv
+*.xlsx
+*.zip
+*.tar.gz
+data/
+raw_data/
+
+# Model Artifacts & Weights
+*.joblib
+*.pkl
+*.pkl.z
+*.h5
+*.pb
+model_artifacts/
